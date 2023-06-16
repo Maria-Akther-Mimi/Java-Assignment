@@ -3,7 +3,7 @@
 ## Document:
 https://docs.google.com/document/d/1ylyfG6wHfdprsfV-kGgz3Y6WDdd3NSwn/edit?usp=sharing&ouid=109073001623741005951&rtpof=true&sd=true
 
-## Problem:
+## Problems:
 
 1. Suppose, a=10 and b=20. Now swap the value using a temp variable. Output: a=20, b=10
 2. Suppose, a=10 and b=20. Now swap the value without a temp variable. Output: a=20, b=10
